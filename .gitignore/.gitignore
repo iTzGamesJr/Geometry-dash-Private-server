@@ -1,0 +1,6 @@
+cho "# GDPS-Updates" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/iTzGamesJr/Geometry dash Private server.git
+git push -u origin master
